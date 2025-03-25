@@ -1,8 +1,10 @@
 apachepulsar/pulsar:4.0.3
+apachepulsar/pulsar-manager:v0.4.0
 
 nginx:1.25
 hashicorp/consul
 redis:5.0.5
+
 
 
 #nginx
