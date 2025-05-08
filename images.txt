@@ -20,3 +20,4 @@ ghcr.io/streamvisor/streamvisor:3.2.0
 #skywalking
 apache/skywalking-oap-server:8.8.0-es7
 apache/skywalking-ui:8.8.0
+
