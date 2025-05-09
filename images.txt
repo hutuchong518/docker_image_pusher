@@ -20,5 +20,6 @@ ghcr.io/streamvisor/streamvisor:3.2.0
 #skywalking
 apache/skywalking-oap-server:8.7.0-es7
 apache/skywalking-ui:8.7.0
+apache/skywalking-ui:8.6.0
 
 docker.elastic.co/elasticsearch/elasticsearch:7.10.1
