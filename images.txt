@@ -35,4 +35,4 @@ ghcr.io/apache/skywalking/ui:latest
 
 
 #jdk1.8 ubuntu
-docker pull xqops/ubuntu-jdk1.8:latest
+xqops/ubuntu-jdk1.8:latest
