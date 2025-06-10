@@ -35,4 +35,4 @@ ghcr.io/apache/skywalking/ui:latest
 
 
 #jdk1.8 ubuntu
-xqops/ubuntu-jdk1.8:latest
+ubuntu/jre:8_edge
