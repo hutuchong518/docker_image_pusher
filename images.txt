@@ -1,12 +1,12 @@
-apachepulsar/pulsar:4.0.3
-apachepulsar/pulsar-manager:v0.4.0
+#apachepulsar/pulsar:4.0.3
+#apachepulsar/pulsar-manager:v0.4.0
 
-nginx:1.25
-hashicorp/consul
-redis:5.0.5
+#nginx:1.25
+#hashicorp/consul
+#redis:5.0.5
 
 # pulsar 第三方管理工具
-ghcr.io/streamvisor/streamvisor:3.2.0
+#ghcr.io/streamvisor/streamvisor:3.2.0
 
 
 #nginx
@@ -18,21 +18,23 @@ ghcr.io/streamvisor/streamvisor:3.2.0
 
 
 #skywalking
-apache/skywalking-oap-server:8.7.0-es7
-apache/skywalking-oap-server:8.6.0-es7
+#apache/skywalking-oap-server:8.7.0-es7
+#apache/skywalking-oap-server:8.6.0-es7
 
-apache/skywalking-ui:8.7.0
-apache/skywalking-ui:8.6.0
+#apache/skywalking-ui:8.7.0
+#apache/skywalking-ui:8.6.0
 
-docker.elastic.co/elasticsearch/elasticsearch:7.10.1
+#docker.elastic.co/elasticsearch/elasticsearch:7.10.1
 
 
 #skywalking 10.2.0
-docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
-ghcr.io/apache/skywalking-banyandb:a091ac0c3efa7305288ae9fb8853bffb2186583a
-ghcr.io/apache/skywalking/oap:latest
-ghcr.io/apache/skywalking/ui:latest
+#docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
+#ghcr.io/apache/skywalking-banyandb:a091ac0c3efa7305288ae9fb8853bffb2186583a
+#ghcr.io/apache/skywalking/oap:latest
+#ghcr.io/apache/skywalking/ui:latest
 
 
 #jdk1.8 ubuntu
-ubuntu/jre:8_edge
+#ubuntu/jre:8_edge
+ubuntu:22.04
+
