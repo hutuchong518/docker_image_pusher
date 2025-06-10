@@ -32,3 +32,7 @@ docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
 ghcr.io/apache/skywalking-banyandb:a091ac0c3efa7305288ae9fb8853bffb2186583a
 ghcr.io/apache/skywalking/oap:latest
 ghcr.io/apache/skywalking/ui:latest
+
+
+#jdk1.8 ubuntu
+docker pull xqops/ubuntu-jdk1.8:latest
