@@ -38,3 +38,7 @@
 #ubuntu/jre:8_edge
 ubuntu:22.04
 
+
+confluentinc/cp-kafka:7.6.1
+confluentinc/cp-zookeeper:7.6.1
+
